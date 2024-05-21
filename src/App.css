@@ -1,0 +1,5 @@
+canvas {
+  display: block; /* Elimina el espacio en blanco alrededor del canvas */
+  width: 100%;
+  height: 100%;
+}

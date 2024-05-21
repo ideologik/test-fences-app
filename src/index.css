@@ -1,0 +1,22 @@
+/* Reiniciar el estilo base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Asegúrate de que el Canvas ocupe todo el espacio disponible */
+html,
+body,
+#root {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #000; /* Fondo negro para un mejor contraste */
+}
